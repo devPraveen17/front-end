@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.img-container{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 7rem;
+}
+.img{
+    object-fit: cover;
+    width: 480px;
+    height: 415px;
+}
+.img-container > h1 {
+    color:blue;
+}
+
+

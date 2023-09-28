@@ -1,0 +1,29 @@
+body {
+    background-image: url('https://wallpapercave.com/wp/wp4549760.jpg');
+    margin: 30;
+
+
+
+}
+
+#box1{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background-color:violet;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin: 30%;
+}
+#box2{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background-color: orangered;
+}
+
+}

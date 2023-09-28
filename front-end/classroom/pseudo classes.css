@@ -1,0 +1,17 @@
+a{
+    color: brown;
+}
+a:visited{
+    color:grey;
+}
+a:hover{
+    color: blue;
+}
+a:active{
+    color: yellow;
+
+}
+button:hover{
+    color: green;
+
+}
